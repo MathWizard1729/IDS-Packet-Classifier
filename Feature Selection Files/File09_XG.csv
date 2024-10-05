@@ -1,0 +1,62 @@
+Feature09,Importance09
+Dst Port,801.0
+Flow IAT Min,690.0
+Init Fwd Win Byts,500.0
+Flow Duration,497.0
+Fwd IAT Min,470.0
+Bwd IAT Min,318.0
+Flow Byts/s,317.0
+Flow IAT Std,271.0
+Init Bwd Win Byts,262.0
+Active Min,259.0
+Flow IAT Max,240.0
+Fwd IAT Std,217.0
+Flow Pkts/s,210.0
+TotLen Fwd Pkts,199.0
+Idle Std,198.0
+Flow IAT Mean,190.0
+Bwd IAT Std,185.0
+Fwd Pkts/s,180.0
+Active Std,179.0
+Fwd Pkt Len Mean,171.0
+Idle Min,171.0
+Fwd IAT Tot,170.0
+Bwd IAT Tot,170.0
+Active Mean,166.0
+Fwd IAT Mean,162.0
+Bwd Pkts/s,162.0
+Bwd IAT Max,149.0
+Active Max,148.0
+Pkt Len Mean,148.0
+TotLen Bwd Pkts,137.0
+Pkt Len Std,128.0
+Bwd Pkt Len Mean,127.0
+Fwd IAT Max,123.0
+Fwd Pkt Len Max,122.0
+Bwd Pkt Len Std,122.0
+Idle Mean,118.0
+Fwd Pkt Len Std,112.0
+Bwd IAT Mean,110.0
+Pkt Size Avg,105.0
+Bwd Pkt Len Min,95.0
+Tot Fwd Pkts,83.0
+Fwd Act Data Pkts,78.0
+Fwd Header Len,76.0
+Fwd Seg Size Min,70.0
+Fwd Pkt Len Min,70.0
+Idle Max,66.0
+Pkt Len Max,63.0
+Bwd Pkt Len Max,59.0
+Pkt Len Min,53.0
+Fwd URG Flags,45.0
+Tot Bwd Pkts,42.0
+Bwd Header Len,40.0
+ACK Flag Cnt,34.0
+Down/Up Ratio,34.0
+Protocol,32.0
+PSH Flag Cnt,30.0
+RST Flag Cnt,20.0
+FIN Flag Cnt,18.0
+URG Flag Cnt,15.0
+Fwd PSH Flags,14.0
+ECE Flag Cnt,13.0
